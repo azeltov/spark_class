@@ -1,0 +1,12 @@
+clean
+assembly
+exit;
+assembly
+clean
+assembly
+package
+*:update
+package
+reload
+package
+exit;
